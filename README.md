@@ -26,7 +26,7 @@ I am a Final Year student at Sinhgad Academy of Engineering, Pune, majoring in C
   <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Saloniamc&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="Saloni's github stats" />
 
   <img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saloniamc&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff&hide=EJS" />
-  
+
 <!---
 <a href="https://github.com/Saloniamc/Online_Classroom_Web_App">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Saloniamc&repo=Online_Classroom_Web_App&show_owner&title_color=e6005c" />
