@@ -25,6 +25,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saloniamc&" alt="saloniamc" /></p>
 
 
+![](https://github.com/saloniamc/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/saloniamc/github-stats/blob/master/generated/languages.svg)
 
 <!--
 **saloniamc/saloniamc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
