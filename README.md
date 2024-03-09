@@ -59,8 +59,13 @@ I am a Final Year student at Sinhgad Academy of Engineering, Pune, majoring in C
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Saloniamc/count.svg" />
 </p> -->
-<br>
-![Profile Views](https://komarev.com/ghpvc/?username=Saloniamc&color=ff69b4)
+
+<p align="center"> 
+ <br>
+  <img src="https://komarev.com/ghpvc/?username=Saloniamc&color=ff69b4" />
+</p>
+
+<!--![Profile Views](https://komarev.com/ghpvc/?username=Saloniamc&color=ff69b4)-->
 
 
 <!--https://github.com/Saloniamc/Saloniamc/blob/master/res/progirl.png
