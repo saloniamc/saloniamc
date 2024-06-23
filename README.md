@@ -54,7 +54,7 @@ I am a Final Year student at Sinhgad Academy of Engineering, Pune, majoring in C
   <img style="width:40px" src="resources/quora.png" alt="Quora profile" />
 </a> -->
 
-<p align="center"> <a href="http://Saloniamc.vercel.app/"><img src="https://github-profile-trophy.vercel.app/?username=Saloniamc&theme=monokai" alt="Saloniamc" /></a> </p>
+<!--<p align="center"> <a href="http://Saloniamc.vercel.app/"><img src="https://github-profile-trophy.vercel.app/?username=Saloniamc&theme=monokai" alt="Saloniamc" /></a> </p> -->
 
 <!-- <p align="center"> 
   Visitor count<br>
