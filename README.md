@@ -4,7 +4,7 @@
 <p align="left">
 
 ## Hey there!👋 I am Saloni.
-I am a Final Year student at Sinhgad Academy of Engineering, Pune, majoring in Computer Science and Engineering.
+I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majoring in Computer Science and Engineering.
 
 ## Get in touch:
  - 📫 How to reach me: salonisb18.2@gmail.com  
