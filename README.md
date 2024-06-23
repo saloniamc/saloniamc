@@ -9,7 +9,7 @@ I am a Final Year student at Sinhgad Academy of Engineering, Pune, majoring in C
 ## Get in touch:
  - 📫 How to reach me: salonisb18.2@gmail.com  
  - 📝 [My LinkedIn](https://www.linkedin.com/in/saloni-bailkar-494700215/)  
- <!-- 🌐 [My Website](https://swethavipparla.github.io/)-->
+ <!-- 🌐 [My Website](https://.github.io/)-->
 
 <!--<a style="padding:10px" href="https://www.quora.com/profile/ ">
   <img style="width:40px" src="resources/quora.png" alt="Quora profile" />
