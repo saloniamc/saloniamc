@@ -17,7 +17,7 @@ I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majorin
 
 <br>
 <br>
-🌱 I’m currently learning React Native <br>
+🌱 I’m currently just learning <br>
 <!--💻<a target="_blank" href="https:///"> Check out my portfolio</a>-->
   <p>
 <br>
