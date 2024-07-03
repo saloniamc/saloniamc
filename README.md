@@ -1,4 +1,7 @@
-
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=Saloniamc&color=ff69b4" />
+</p>
+<br>
 <img align="right" height="220px" src="https://appservice.azureedge.net/images/linux-landing-page/v3/node.svg" alt="image" />
 
 <p align="left">
@@ -23,11 +26,6 @@ I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majorin
 <br>
 
 ## My Stats :chart_with_upwards_trend:
-
-  ![](https://raw.githubusercontent.com/Saloniamc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-   ![](https://raw.githubusercontent.com/Saloniamc/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-
 <a href="https://github.com/saloniamc/github-stats">
 <img src="https://github.com/saloniamc/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/saloniamc/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
@@ -45,11 +43,6 @@ I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majorin
 
 
 
-
-<p align="center"> 
- <br>
-  <img src="https://komarev.com/ghpvc/?username=Saloniamc&color=ff69b4" />
-</p>
 
 <!--
 **saloniamc/saloniamc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
