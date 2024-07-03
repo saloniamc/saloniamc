@@ -6,7 +6,8 @@
 
 <p align="left">
 
-## Hey there!👋 I am Saloni.
+
+# Hey there!👋 I am Saloni.
 I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majoring in Computer Science and Engineering.
 
 ## Get in touch:
