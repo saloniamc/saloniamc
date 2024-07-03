@@ -17,7 +17,7 @@ I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majorin
 
 <br>
 <br>
-🌱 I’m currently just learning <br>
+🌱 I’m currently learning React <br>
 <!--💻<a target="_blank" href="https:///"> Check out my portfolio</a>-->
   <p>
 <br>
@@ -27,7 +27,10 @@ I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majorin
   ![](https://raw.githubusercontent.com/Saloniamc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
    ![](https://raw.githubusercontent.com/Saloniamc/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-  
+
+<a href="https://github.com/saloniamc/github-stats">
+<img src="https://github.com/saloniamc/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/saloniamc/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 <!---
 <a href="https://github.com/Saloniamc/Online_Classroom_Web_App">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Saloniamc&repo=Online_Classroom_Web_App&show_owner&title_color=e6005c" />
