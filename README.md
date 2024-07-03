@@ -1,7 +1,4 @@
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=Saloniamc&color=ff69b4" />
-</p>
-<br>
+
 <img align="right" height="220px" src="https://appservice.azureedge.net/images/linux-landing-page/v3/node.svg" alt="image" />
 
 <p align="left">
@@ -46,6 +43,10 @@ I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majorin
 
 
 <!--
-**saloniamc/saloniamc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**saloniamc/saloniamc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Saloniamc&color=ff69b4" />
+</p>
 
+<br>
