@@ -85,7 +85,6 @@ I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majorin
 </p>
 
 
-
 ## My Stats :chart_with_upwards_trend:
 <a href="https://github.com/saloniamc/github-stats">
 <img src="https://github.com/saloniamc/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /> 
@@ -99,7 +98,8 @@ I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majorin
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saloniamc&repo=Daily-Newspaper-using-reactJS&title_color=e6005c" />
  </a>
 -->
-<br> 
+ 
+<br>
 <br>
 <br>
 
