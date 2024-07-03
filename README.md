@@ -22,8 +22,8 @@ I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majorin
   <p>
 <br>
 
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Saloniamc&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="Saloni's github stats" />
-  <img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saloniamc&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff&hide=EJS" />
+![](https://raw.githubusercontent.com/saloniamc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/saloniamc/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
   
 <!---
