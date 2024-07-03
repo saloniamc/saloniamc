@@ -40,7 +40,7 @@ I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majorin
 <br>
 <br>
 
-<!-- ## Get in touch:
+
 
 
 <p align="center"> 
