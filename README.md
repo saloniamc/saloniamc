@@ -48,5 +48,3 @@ I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majorin
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Saloniamc&color=ff69b4" />
 </p>
-
-<br>
