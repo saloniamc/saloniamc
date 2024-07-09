@@ -86,9 +86,9 @@ I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majorin
 
 ## My Stats :chart_with_upwards_trend:
 <a href="https://github.com/saloniamc/github-stats">
-<img src="https://github.com/saloniamc/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /> 
+<img src="https://github.com/saloniamc/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" /> 
 <br>
-<img src="https://github.com/saloniamc/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/saloniamc/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 <!---
 <a href="https://github.com/Saloniamc/Online_Classroom_Web_App">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Saloniamc&repo=Online_Classroom_Web_App&show_owner&title_color=e6005c" />
