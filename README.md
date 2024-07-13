@@ -11,6 +11,10 @@ I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majorin
  - 📝 [My LinkedIn](https://www.linkedin.com/in/saloni-bailkar-494700215/)  
  <!-- 🌐 [My Website](https://.github.io/)-->
 
+ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](/)
+[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:Salonisb18.2@gmail.com)
+
+
 <!--<a style="padding:10px" href="https://www.quora.com/profile/ ">
   <img style="width:40px" src="resources/quora.png" alt="Quora profile" />
 </a> -->
