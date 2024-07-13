@@ -5,8 +5,8 @@
 
 # ![]()[Hello,I'm Saloni](https://shubhamjadhav.dev) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 
--I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majoring in Computer Science and Engineering.
--🌱 I’m currently learning React <br>
+- I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majoring in Computer Science and Engineering.
+- 🌱 I’m currently learning React <br>
 
 ## Get in touch:
  - 📫 Mail me at: [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:Salonisb18.2@gmail.com)  
