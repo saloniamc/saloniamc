@@ -10,10 +10,10 @@
 
 ## Connect with me:
  - 📫 Mail me at: [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:Salonisb18.2@gmail.com)  
- - 📝  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/saloni-bailkar-494700215/)
+<!--📝  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/saloni-bailkar-494700215/)
  <!-- 🌐 [My Website](https://.github.io/)-->
 
-
+-->
 
 
 
