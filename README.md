@@ -21,10 +21,9 @@
   <img style="width:40px" src="resources/quora.png" alt="Quora profile" />
 </a> -->
 
-<br>
 <!--💻<a target="_blank" href="https:///"> Check out my portfolio</a>-->
-  <p>
 <br>
+  <p>
 
 ## Tech-Stack :computer:
 <p>
