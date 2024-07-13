@@ -3,7 +3,7 @@
 <p align="left">
 
 
-# ![]()[Hello, I'm Saloni]() <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
+# **Hello, I'm Saloni** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 
 - I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majoring in Computer Science and Engineering.
 - 🌱 I’m currently learning React <br>
@@ -30,6 +30,28 @@
 <br>
 
 ## Tech-Stack :computer:
+<!-- <p> 
+ <!-- <img alt=" " src=" " />-->
+<!--
+ <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+ <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-EA4C89?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+ <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img alt="Java" src="https://img.shields.io/badge/-Java-43853d?style=flat-square&logo=Java&logoColor=white" />
+ <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0078D6?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+
+ <img alt="CSS3" src="https://img.shields.io/badge/CSS3-734F96?style=for-the-badge&logo=css3&logoColor=white" />
+ <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+ <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+ <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+ <img alt="git" src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=github&logoColor=white" />
+ <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+ <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+ <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+ <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+ <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+</p> -->
+
 <p>
 <a href="https://www.programiz.com/c-programming" target="_blank">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -92,10 +114,13 @@
 
 
 ## My Stats :chart_with_upwards_trend:
-<a href="https://github.com/saloniamc/github-stats">
+<p align="center"> 
+ <a href="https://github.com/saloniamc/github-stats">
 <img src="https://github.com/saloniamc/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" /> 
 <br>
 <img src="https://github.com/saloniamc/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</p>
+
 <!---
 <a href="https://github.com/Saloniamc/Online_Classroom_Web_App">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Saloniamc&repo=Online_Classroom_Web_App&show_owner&title_color=e6005c" />
@@ -113,6 +138,18 @@
 <!--
 **saloniamc/saloniamc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Saloniamc&color=ff69b4" />
+ <img src="https://komarev.com/ghpvc/?username=Saloniamc&color=000000" />
+ </a>
+  <a href="https://github.com/Saloniamc?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/Saloniamc?style=flat-square&color=black&logo=github">
+  </a>
 </p>
+
+<!--
+<details>
+<summary>⚡️ More about me</summary>
+<br />
+
+</details> -->
