@@ -9,8 +9,7 @@
 - 🌱 I’m currently learning React <br>
 
 ## Connect with me:
- - 📫Mail me at: [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:Salonisb18.2@gmail.com)
-   <br>
+ - <a href="mailto:salonisb18.2@gmail.com"><img height="32" align="left" alt="Mail" src="img/icons/gmail.png" /></a>
  - <a href="https://www.linkedin.com/in/saloni-bailkar-494700215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SaloniBailkar" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/salonisatappabailkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saloniamc" height="30" width="40" /></a>
 
