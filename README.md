@@ -3,7 +3,8 @@
 <p align="left">
 
 
-# Hey!👋 I am Saloni.
+# ![](https://res.cloudinary.com/sjdev/image/upload/v1636873972/Git-Readme/Hello_1_rpemnu.gif)[Hello,I'm Saloni](https://shubhamjadhav.dev) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
+
 I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majoring in Computer Science and Engineering.
 
 ## Get in touch:
