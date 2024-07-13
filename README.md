@@ -9,7 +9,15 @@
 - 🌱 I’m currently learning React <br>
 
 ## Connect with me:
- - 📫 Mail me at: [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:Salonisb18.2@gmail.com)  
+ - 📫Mail me at: [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:Salonisb18.2@gmail.com)
+   <br>
+ - <a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://github.com/saloniamc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saloniamc" height="30" width="40" /></a>
+<a href="https://github.com/saloniamc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saloniamc" height="30" width="40" /></a>
+<a href=" " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saloniamc" height="30" width="40" /></a>
+
+
 <!--📝  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/saloni-bailkar-494700215/)
  <!-- 🌐 [My Website](https://.github.io/)-->
 
@@ -104,7 +112,6 @@
 <br>
 <br>
 <br>
-
 
 
 <!--
