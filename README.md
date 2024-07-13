@@ -8,9 +8,9 @@
 - I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majoring in Computer Science and Engineering.
 - 🌱 I’m currently learning React <br>
 
-## Connect with me:
- - <a href="mailto:salonisb18.2@gmail.com"><img height="32" align="left" alt="Mail" src="img/icons/gmail.png" /></a>
- - <a href="https://www.linkedin.com/in/saloni-bailkar-494700215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SaloniBailkar" height="30" width="40" /></a>
+## Connect with me: 
+ - <a href="mailto:salonisb18.2@gmail.com"><img height="32" align="left" alt="Mail" src="img/gmail.png" /></a>
+<a href="https://www.linkedin.com/in/saloni-bailkar-494700215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SaloniBailkar" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/salonisatappabailkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saloniamc" height="30" width="40" /></a>
 
 <!--📝  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/saloni-bailkar-494700215/)
