@@ -8,12 +8,6 @@
 - I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majoring in Computer Science and Engineering.
 - 🌱 I’m currently learning React <br>
 
-## Connect with me: 
- - <a href="mailto:salonisb18.2@gmail.com"><img height="32" align="left" alt="Mail" src="img/gmail.png" /></a>
-<a href="https://www.linkedin.com/in/saloni-bailkar-494700215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SaloniBailkar" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/salonisatappabailkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saloniamc" height="30" width="40" /></a>
-<a href="https://www.duolingo.com/profile/_saloni_._?via=share_profile_link"><img height="32" align="left" alt="Mail" src="img/Duo.svg" /></a>
-
 
 <!--📝  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/saloni-bailkar-494700215/)
  <!-- 🌐 [My Website](https://.github.io/)-->
@@ -29,7 +23,6 @@
 <!--💻<a target="_blank" href="https:///"> Check out my portfolio</a>-->
 
  <p>
-<br>
 
 ## Tech-Stack :computer:
 <!-- <p> 
@@ -131,8 +124,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saloniamc&repo=Daily-Newspaper-using-reactJS&title_color=e6005c" />
  </a>
 -->
- 
-<br>
+
+## Connect with me: 
+ - <a href="mailto:salonisb18.2@gmail.com"><img height="32" align="left" alt="Mail" src="img/gmail.png" /></a>
+<a href="https://www.linkedin.com/in/saloni-bailkar-494700215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SaloniBailkar" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/salonisatappabailkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saloniamc" height="30" width="40" /></a>
+<a href="https://www.duolingo.com/profile/_saloni_._?via=share_profile_link"><img height="32" align="left" alt="Mail" src="img/Duo.svg" /></a>
+
 <br>
 <br>
 
