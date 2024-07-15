@@ -22,6 +22,14 @@
 
 <!--💻<a target="_blank" href="https:///"> Check out my portfolio</a>-->
 
+
+## Connect with me: 
+ - <a href="mailto:salonisb18.2@gmail.com"><img height="32" align="left" alt="Mail" src="img/gmail.png" /></a>
+<a href="https://www.linkedin.com/in/saloni-bailkar-494700215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SaloniBailkar" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/salonisatappabailkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saloniamc" height="30" width="40" /></a>
+<!--<a href="https://www.duolingo.com/profile/_saloni_._?via=share_profile_link"><img height="32" align="left" alt="Mail" src="img/Duo.svg" /></a> -->
+
+<br>
  <p>
 
 ## Tech-Stack :computer:
@@ -125,11 +133,6 @@
  </a>
 -->
 
-## Connect with me: 
- - <a href="mailto:salonisb18.2@gmail.com"><img height="32" align="left" alt="Mail" src="img/gmail.png" /></a>
-<a href="https://www.linkedin.com/in/saloni-bailkar-494700215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SaloniBailkar" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/salonisatappabailkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saloniamc" height="30" width="40" /></a>
-<a href="https://www.duolingo.com/profile/_saloni_._?via=share_profile_link"><img height="32" align="left" alt="Mail" src="img/Duo.svg" /></a>
 
 <br>
 <br>
