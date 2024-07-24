@@ -6,7 +6,7 @@
 # **Hello,I am Saloni** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 
 - I am a Final Year student(2024) at Sinhgad Academy of Engineering, Pune, majoring in Computer Science and Engineering.
-- 🌱 I’m currently learning React <br>
+- <br>
 
 
 <!--📝  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/saloni-bailkar-494700215/)
