@@ -32,18 +32,17 @@
  <p>
 
 ## Tech-Stack :computer:
-<!-- <p> 
+ <p> 
  <!-- <img alt=" " src=" " />-->
-<!--
+
  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-EA4C89?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+ <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-734F96?style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img alt="Java" src="https://img.shields.io/badge/-Java-43853d?style=flat-square&logo=Java&logoColor=white" />
  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0078D6?style=for-the-badge&logo=Bootstrap&logoColor=white" />
-
- <img alt="CSS3" src="https://img.shields.io/badge/CSS3-734F96?style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
- <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="Express" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
  <img alt="git" src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -52,9 +51,10 @@
  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-</p> -->
+</p> 
 
 <p>
+ <!--
 <a href="https://www.programiz.com/c-programming" target="_blank">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </a>
@@ -78,27 +78,33 @@
 </a>
  <a href="https://git-scm.com/" target="_blank">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/> 
-</a>
-<a href="https://www.shellscript.sh/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Shell" width="45" height="40"/>
 </a> 
-<a href="https://reactjs.org/" target="_blank">
+  <a href="https://www.linux.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</a>
+ <a href="https://getbootstrap.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> 
+</a>
+ <a href="https://reactjs.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
 </a>
+ <a href="https://nodejs.org/en/" target="_blank">
+<img src="https://www.logolynx.com/images/logolynx/c5/c509c38cb89bcf556b2051222663f398.png" alt="NodeJs" width="45" height="45"/>
+</a> 
+ <a href="https://www.shellscript.sh/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Shell" width="45" height="40"/>
+</a> 
+ -->
+
 <a href="" target="_blank">
 <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="Django" width="40" height="40"/> 
 </a>
 <a href="https://nextjs.org/" target="_blank">
 <img src="https://res.cloudinary.com/dic1wkup2/image/upload/v1586716992/feature_img/nextjs-2_xbwleg.png" alt="NextJs" width="50" height="30"/> 
 </a>
-<a href="https://nodejs.org/en/" target="_blank">
-<img src="https://www.logolynx.com/images/logolynx/c5/c509c38cb89bcf556b2051222663f398.png" alt="NodeJs" width="45" height="45"/>
-</a> 
+
 <a href="https://expressjs.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJs" width="40" height="40"/> 
-</a>
-<a href="https://getbootstrap.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> 
 </a>
  <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="40" height="40"/>
@@ -109,9 +115,7 @@
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </a>
- <a href="https://www.linux.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</a>
+
 </p>
 
 
