@@ -34,7 +34,7 @@
 ## Tech-Stack :computer:
 
 
- [![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,bootstrap,c,cpp,css,django,express,git,github,graphql,html,java,js,linux,mongodb,mysql,nextjs,nodejs,npm,postgres,postman,prisma,py,qt,react,redis,sass,supabase,tailwind,ts,windows&perline=5)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,bootstrap,c,cpp,css,django,express,git,github,graphql,html,java,js,linux,mongodb,mysql,nextjs,nodejs,npm,postgres,postman,prisma,py,qt,react,redis,sass,supabase,tailwind,ts,windows,yarn&perline=5)](https://skillicons.dev)
  <!-- <img alt=" " src=" " />-->
 
  <!--<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
